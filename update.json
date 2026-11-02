@@ -21,13 +21,13 @@
       "key": "canais24h",
       "title": "Canais 24 Horas",
       "buscas": [
-        "canal 24 horas ao vivo",
-        "tv ao vivo 24 horas",
-        "notícias ao vivo 24 horas",
-        "música ao vivo 24 horas",
-        "desenhos ao vivo 24 horas",
-        "esportes ao vivo 24 horas",
-        "filmes e séries ao vivo 24 horas",
+        "canal 24 horas ao vivo ptbr",
+        "tv ao vivo 24 horas ptbr",
+        "notícias ao vivo 24 horas ptbr",
+        "música ao vivo 24 horas ptbr",
+        "desenhos ao vivo 24 horas ptbr",
+        "esportes ao vivo 24 horas ptbr",
+        "filmes e séries ao vivo 24 horas ptbr",
         "lofi 24/7 ao vivo",
         "live 24/7 channel"
       ],
@@ -43,6 +43,7 @@
     {"key": "comedia", "tipo": "movies", "title": "Filmes | Comédia", "q": "filme de comédia completo dublado", "min": 3000},
     {"key": "terror", "tipo": "movies", "title": "Filmes | Terror", "q": "filme de terror completo dublado", "min": 3000},
     {"key": "drama", "tipo": "movies", "title": "Filmes | Drama", "q": "filme drama completo dublado", "min": 3000},
+	{"key": "asiático ", "tipo": "movies", "title": "Filmes | Asiático ", "q": "filmes asiático completo dublado", "min": 3000},
     {"key": "ficcao", "tipo": "movies", "title": "Filmes | Ficção Científica", "q": "filme ficção científica completo dublado", "min": 3000},
     {"key": "aventura", "tipo": "movies", "title": "Filmes | Aventura", "q": "filme de aventura completo dublado", "min": 3000},
     {"key": "suspense", "tipo": "movies", "title": "Filmes | Suspense", "q": "filme de suspense thriller completo dublado", "min": 3000},
@@ -96,10 +97,12 @@
 	{"key": "brasil", "tipo": "series", "title": "Clipes | Brasil", "q": "official videoclip brasil"},
 	{"key": "parodia", "tipo": "series", "title": "Clipes | Parodia", "q": "parodia video clips"},
 	{"key": "cdzremake", "tipo": "series", "title": "Videos | cdz ia", "q": "cdz remake ia ptbr"},
-    {"key": "jogos", "tipo": "series", "title": "Videos | jogos", "q": "jogos gamepaly play pt br"},
+    {"key": "jogos", "tipo": "series", "title": "Videos | GamePlay", "q": "jogos gamepaly play pt br"},
     {"key": "dbd", "tipo": "series", "title": "Videos | DBD", "q": "dead by daylight no commentary"},
-	{"key": "kof", "tipo": "series", "title": "GamePlay | KOF", "q": "M. Bizarro"},
+	{"key": "kof", "tipo": "series", "title": "Videos | KOF", "q": "M. Bizarro"},
     {"key": "terceiroolho", "tipo": "series", "title": "Videos | Terceiro olho", "q": "Terceiro olho"},
-    {"key": "mantras", "tipo": "series", "title": "Videos | Mantras", "q": "mantras Terceiro olho"}
+    {"key": "mantras", "tipo": "series", "title": "Videos | Mantras", "q": "mantras Terceiro olho"},
+    {"key": "ued", "tipo": "series", "title": "Videos | Universo Em Desencanto", "q": "Audio Leitura Universo Em Desencanto"},
+    {"key": "mjc", "tipo": "series", "title": "Videos | M.J.C", "q": "Manuel Jacinto Coelho"}
   ]
 }
