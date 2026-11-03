@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 {
   "versao": 3,
 
@@ -58,6 +68,7 @@
     {"key": "infantil", "tipo": "movies", "title": "Filmes | Infantil e Família", "q": "filme infantil família completo dublado", "min": 2400},
     {"key": "classicos", "tipo": "movies", "title": "Filmes | Clássicos", "q": "filme clássico antigo completo dublado", "min": 3000},
     {"key": "nacionais", "tipo": "movies", "title": "Filmes | Nacionais", "q": "filme nacional brasileiro completo", "min": 3000},
+	{"key": "envangelicos", "tipo": "movies", "title": "Filmes | envangelicos", "q": "filmes envangelicos completo dublado", "min": 2400},
     {"_": "=================== 3 - SERIES (24 horas em primeiro, depois series, clipes e videos) ==================="},
     {"key": "24horas", "tipo": "series", "title": "Séries | 24 Horas", "q": "24 horas ao vivo maratona dublado ptbr", "ao_vivo": true},
     {"key": "animes", "tipo": "series", "title": "Séries | Animes", "q": "anime completo dublado português", "min": 1200},
@@ -106,6 +117,11 @@
     {"key": "mantras", "tipo": "series", "title": "Videos | Mantras", "q": "mantras Terceiro olho"}
   ]
 }
+
+
+
+
+
 
 
 
