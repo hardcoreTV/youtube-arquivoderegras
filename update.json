@@ -73,7 +73,7 @@
     {"key": "ciencia", "tipo": "series", "title": "Séries | Ciência e Espaço", "q": "documentário espaço universo ciência dublado", "min": 1800},
     {"key": "crimes", "tipo": "series", "title": "Séries | Crimes Reais", "q": "documentário crimes reais completo dublado ptbr", "min": 1800},
 	{"key": "Minidramas", "tipo": "series", "title": "Séries | Minidramas", "q": "Minidramas dublado", "min": 1800},
-    {"key": "pegadinha", "tipo": "series", "title": "Séries | pegadinha", "q": "comedia  pegadinha  dublado", "min": 1500},
+    {"key": "pegadinha", "tipo": "series", "title": "Videos | pegadinha", "q": "comedia  pegadinha  dublado", "min": 1500},
     {"key": "clipestop", "tipo": "series", "title": "Clipes | Top Hits Internacionais", "q": "top english hits official music video"},
     {"key": "clipespop", "tipo": "series", "title": "Clipes | Pop Internacional", "q": "pop official music video english"},
     {"key": "clipesrock", "tipo": "series", "title": "Clipes | Rock Internacional", "q": "rock official music video english"},
