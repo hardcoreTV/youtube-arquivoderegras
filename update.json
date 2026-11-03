@@ -99,12 +99,13 @@
 	{"key": "OfficialVideo", "tipo": "series", "title": "Clipes | Official Video", "q": "Clipes Official Video"},
 	{"key": "brasil", "tipo": "series", "title": "Clipes | Brasil", "q": "official videoclip brasil"},
 	{"key": "parodia", "tipo": "series", "title": "Clipes | Parodia", "q": "parodia video clips"},
-	{"key": "cdzremake", "tipo": "series", "title": "Videos | cdz ia", "q": "cdz remake ia ptbr"},
+	{"key": "cdzremake", "tipo": "series", "title": "Videos | cdz ia", "q": "CDZ Remake ia ptbr"},
     {"key": "jogos", "tipo": "series", "title": "Videos | GamePlay", "q": "jogos gamepaly play pt br"},
-    {"key": "dbd", "tipo": "series", "title": "Videos | DBD", "q": "dead by daylight no commentary"},
+    {"key": "dbd", "tipo": "series", "title": "Videos | DBD", "q": "Dead By Daylight no commentary"},
 	{"key": "kof", "tipo": "series", "title": "Videos | KOF", "q": "M. Bizarro"},
     {"key": "terceiroolho", "tipo": "series", "title": "Videos | Terceiro olho", "q": "Terceiro olho"},
     {"key": "mantras", "tipo": "series", "title": "Videos | Mantras", "q": "mantras Terceiro olho"}
+    {"key": "espiritismo", "tipo": "series", "title": "Videos | Espiritismo", "q": "espiritismo dubloado"}
   ]
 }
 
