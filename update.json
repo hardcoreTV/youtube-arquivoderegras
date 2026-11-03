@@ -104,7 +104,8 @@
     {"key": "dbd", "tipo": "series", "title": "Videos | DBD", "q": "Dead By Daylight no commentary"},
 	{"key": "kof", "tipo": "series", "title": "Videos | KOF", "q": "M. Bizarro"},
     {"key": "terceiroolho", "tipo": "series", "title": "Videos | Terceiro olho", "q": "Terceiro olho"},
-    {"key": "mantras", "tipo": "series", "title": "Videos | Mantras", "q": "mantras Terceiro olho"}
+    {"key": "mantras", "tipo": "series", "title": "Videos | Mantras", "q": "mantras Terceiro olho"},
+    {"key": "noticiasrecentes", "tipo": "series", "title": "Videos | Noticias recentes", "q": "noticias recentes"},
     {"key": "espiritismo", "tipo": "series", "title": "Videos | Espiritismo", "q": "espiritismo dubloado"}
   ]
 }
