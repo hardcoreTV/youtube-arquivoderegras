@@ -86,7 +86,7 @@
 	{"key": "portadosfundos", "tipo": "series", "title": "Videos | porta dos fundos", "q": "porta dos fundos oficial video"},
     {"key": "galofrito", "tipo": "series", "title": "Videos | galo frito", "q": "galo frito oficial video"},
     {"key": "nocturnal", "tipo": "series", "title": "Clipes | Nocturnal Records", "q": "Nocturnal Records"},
-    {"key": "Repo!", "tipo": "series", "title": "Clipes | Repo! The Genetic Opera", "q": "Repo! The Genetic Opera"},
+    {"key": "Repo!", "tipo": "series", "title": "Clipes | Repo! The Genetic Opera", "q": "Repo! The Genetic Opera Official Video"},
     {"key": "K-pop", "tipo": "series", "title": "Clipes | K-pop Asian", "q": "kpop girl group official MV"},
     {"key": "emo", "tipo": "series", "title": "Clipes | Emo", "q": "clip music emo"},
     {"key": "gothic", "tipo": "series", "title": "Clipes | Gothic", "q": "clip music gothic"},
@@ -103,8 +103,21 @@
     {"key": "dbd", "tipo": "series", "title": "Videos | DBD", "q": "dead by daylight no commentary"},
 	{"key": "kof", "tipo": "series", "title": "Videos | KOF", "q": "M. Bizarro"},
     {"key": "terceiroolho", "tipo": "series", "title": "Videos | Terceiro olho", "q": "Terceiro olho"},
-    {"key": "mantras", "tipo": "series", "title": "Videos | Mantras", "q": "mantras Terceiro olho"},
-    {"key": "ued", "tipo": "series", "title": "Videos | Universo Em Desencanto", "q": "Audio Leitura Universo Em Desencanto"},
-    {"key": "mjc", "tipo": "series", "title": "Videos | M.J.C", "q": "Manuel Jacinto Coelho"}
+    {"key": "mantras", "tipo": "series", "title": "Videos | Mantras", "q": "mantras Terceiro olho"}
   ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
