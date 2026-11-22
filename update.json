@@ -1,16 +1,28 @@
 {
-  "versao": 3,
+  "versao": 4,
 
   "servidores": [
     {"tipo": "piped", "url": "https://pipedapi.kavin.rocks"},
+    {"tipo": "piped", "url": "https://pipedapi-libre.kavin.rocks"},
     {"tipo": "piped", "url": "https://pipedapi.leptons.xyz"},
     {"tipo": "piped", "url": "https://pipedapi.nosebs.ru"},
+    {"tipo": "piped", "url": "https://api.piped.yt"},
+    {"tipo": "piped", "url": "https://api.piped.private.coffee"},
     {"tipo": "piped", "url": "https://pipedapi.adminforge.de"},
     {"tipo": "piped", "url": "https://pipedapi.drgns.space"},
     {"tipo": "piped", "url": "https://pipedapi.owo.si"},
     {"tipo": "piped", "url": "https://pipedapi.reallyaweso.me"},
+    {"tipo": "piped", "url": "https://pipedapi.ducks.party"},
+    {"tipo": "piped", "url": "https://piped-api.codespace.cz"},
+    {"tipo": "piped", "url": "https://pipedapi.darkness.services"},
+    {"tipo": "piped", "url": "https://pipedapi.orangenet.cc"},
+    {"tipo": "piped", "url": "https://piped-api.privacy.com.de"},
     {"tipo": "inv", "url": "https://inv.nadeko.net"},
-    {"tipo": "inv", "url": "https://yewtu.be"}
+    {"tipo": "inv", "url": "https://invidious.nerdvpn.de"},
+    {"tipo": "inv", "url": "https://yt.chocolatemoo53.com"},
+    {"tipo": "inv", "url": "https://invidious.tiekoetter.com"},
+    {"tipo": "inv", "url": "https://invidious.f5.si"},
+    {"tipo": "inv", "url": "https://inv.zoomerville.com"}
   ],
   "chave_api": "",
   "sponsorblock": "https://sponsor.ajay.app",
@@ -109,23 +121,3 @@
     {"key": "espiritismo", "tipo": "series", "title": "Videos | Espiritismo", "q": "espiritismo dubloado"}
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
